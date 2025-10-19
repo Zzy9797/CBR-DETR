@@ -1,0 +1,15 @@
+# dataset path
+
+path: /home/cbr-detr/
+train: /Dataset/VisDrone2019/VisDrone2019-DET-train/images  
+val:  /Dataset/VisDrone2019/VisDrone2019-DET-val/images #./dataset/images/val
+test: /Dataset/VisDrone2019/VisDrone2019-DET-test-dev/images
+
+# number of classes
+nc: 10
+
+
+names: ['pedestrian', 'people', 'bicycle',
+                   'car', 'van', 'trunck', 
+                   'tricycle', 'awning-tricycle',
+                   'bus', 'motor']
