@@ -1,6 +1,6 @@
 # CBR-DETR
 
-### AN ENHANCED RT-DETR WITH MULTI-LEVEL CONTEXT FUSION AND BIDIRECTIONAL ROUTING
+### An Enhanced RT-DETR with Multi-Level Context Fusion and Bidirectional Routing
 
 ---
 
