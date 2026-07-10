@@ -9,7 +9,7 @@ from prettytable import PrettyTable
 def get_weight_size(path):
     stats = os.stat(path)
     return f'{stats.st_size / 1024 / 1024:.1f}'
-
+ 
 if __name__ == '__main__':
     
     model_path = 'runs/train/exp/weights/best.pt'
